@@ -1,0 +1,3 @@
+class LibHelper{
+    // Load assembly
+}
